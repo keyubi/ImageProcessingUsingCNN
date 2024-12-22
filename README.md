@@ -13,11 +13,18 @@ This project uses a subset of the Animals with Attributes 2 dataset to train a C
 ## Kaggle Link
 https://www.kaggle.com/code/kubtem/imageprocessingusingcnn/edit
 ## Steps
-1. Data Preparation
-2. Image Preprocessing
+1. Importing Libraries
+2. Dataset Preperation
+2.1 Classification
+2.2 Sizing and Normalization of Images
 3. Data Augmentation
-4. Model Training
-5. Evaluation and Analysis
+4. Creating the CNN Model
+5. Model Compilation and Training
+6. Evaluating Model Performance
+7. Model Predictions
+8. Manipulated Test Set
+9. Gray World Algorithm for Color Constancy
+10. Comparison of Results
 
 ## Results
 The model's accuracy is compared across original, manipulated, and color-corrected datasets to assess its performance under different conditions.
